@@ -1,0 +1,18 @@
+.profile{
+    background-color:rgb(218, 142, 155);
+    color:black;
+    padding: 1.3px;
+    margin: 1px;
+    font-family: Monotype Corsiva;
+}
+.nav{
+    color:rgb(147, 24, 24);
+    padding: 2px;
+    margin: 2px;
+    font-family: Monotype Corsiva;
+    padding-left: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}   
