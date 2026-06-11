@@ -173,4 +173,33 @@ h4 {
 .the-end-counter h4{
     color: white;
 }
+.project{
+    align-items:last baseline;
+    display:flex;
+    justify-content:center ;
+    gap:190px;
+    font-family: Monotype Corsiva;
+    font-size:25px;
+    background-color: rgb(220, 238, 238);
 
+}
+ h1 .prj1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto;
+}
+.prj1 p{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-right: 20px;
+}
+
+
+.FNB{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+.HTQL{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
